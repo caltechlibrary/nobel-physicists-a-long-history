@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="The Nobel Physicists at Caltech -a Long History"
+
+>
+  <image imageURL="images/logo Archives FB.jpg"
+	thumbURL="thumbs/logo Archives FB.jpg"
+	linkURL="images/logo Archives FB.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\Millikan\images\logo Archives FB.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1.31-6 nobel portrait.jpg"
+	thumbURL="thumbs/1.31-6 nobel portrait.jpg"
+	linkURL="images/1.31-6 nobel portrait.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\Millikan\images\1.31-6 nobel portrait.jpg">
+    <title><![CDATA[The Nobel Prize in Physics 1923 was awarded to Robert A. Millikan "for his work on the elementary charge of electricity and on the photoelectric effect".]]></title>
+    <caption><![CDATA[Robert Millikan's official Nobel portrait. (May 1924; photo credit: A. B. Lagrelius & Westphal. R. A. Millikan Papers)]]></caption>
+  </image>
+  <image imageURL="images/RAM86-2.jpg"
+	thumbURL="thumbs/RAM86-2.jpg"
+	linkURL="images/RAM86-2.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\RAM86-2.jpg">
+    <title><![CDATA[Millikan in his laboratory.]]></title>
+    <caption><![CDATA[(1924; photo credit: unknown. R. A. Millikan Papers)]]></caption>
+  </image>
+  <image imageURL="images/Nobel medal.jpg"
+	thumbURL="thumbs/Nobel medal.jpg"
+	linkURL="images/Nobel medal.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\Millikan\images\Nobel medal.jpg">
+    <title><![CDATA[Millikan's Nobel medal. All Nobel medals carry Alfred Nobel's profile on the recto. The verso is different depending on the discipline, in this case Nature as a goddess emerging from the clouds.]]></title>
+    <caption><![CDATA[(1923. R.A. Millikan Papers)]]></caption>
+  </image>
+  <image imageURL="images/anderson_1.35-11.jpg"
+	thumbURL="thumbs/anderson_1.35-11.jpg"
+	linkURL="images/anderson_1.35-11.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\anderson_1.35-11.jpg">
+    <title><![CDATA[The Nobel Prize in Physics 1936 was divided equally between Carl David Anderson "for his discovery of the positron" and Victor Franz Hess "for his discovery of cosmic radiation".]]></title>
+    <caption><![CDATA[Robert A. Millikan (left) and Carl Anderson (right) with cloud chamber photo. Photo taken after announcement of Nobel Prize. (1936; photo credit: unknown. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/Anderson_lab1.2-5.jpg"
+	thumbURL="thumbs/Anderson_lab1.2-5.jpg"
+	linkURL="images/Anderson_lab1.2-5.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\Anderson_lab1.2-5.jpg">
+    <title><![CDATA[Carl Anderson with the magnet cloud chamber with which he discovered the positive electron or positron.  This picture was taken in the Guggenheim Aeronautics Lab at Caltech.]]></title>
+    <caption><![CDATA[(1931; photo credit: unknown. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/anderson_1.2-3.jpg"
+	thumbURL="thumbs/anderson_1.2-3.jpg"
+	linkURL="images/anderson_1.2-3.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\anderson_1.2-3.jpg">
+    <title><![CDATA[Carl D. Anderson receiving the Nobel Prize from Gustaf  V, King of Sweden.]]></title>
+    <caption><![CDATA[(1936; photo credit: unknown. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/DAG_nobel_portrait1_5_2_0006.jpg"
+	thumbURL="thumbs/DAG_nobel_portrait1_5_2_0006.jpg"
+	linkURL="images/DAG_nobel_portrait1_5_2_0006.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\DAG_nobel_portrait1_5_2_0006.jpg">
+    <title><![CDATA[The Nobel Prize in Physics 1960 was awarded to Donald A. Glaser "for the invention of the bubble chamber".]]></title>
+    <caption><![CDATA[An informal portrait of Donald Glaser taken during the Nobel celebrations. (December 1960; photo credit: unknown. Glaser Papers)]]></caption>
+  </image>
+  <image imageURL="images/DAG_bubble1_9_4_0009.jpg"
+	thumbURL="thumbs/DAG_bubble1_9_4_0009.jpg"
+	linkURL="images/DAG_bubble1_9_4_0009.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\DAG_bubble1_9_4_0009.jpg">
+    <title><![CDATA[Donald Glaser  working on the bubble chamber.]]></title>
+    <caption><![CDATA[(1950s; photo credit: unknown. Glaser Papers)]]></caption>
+  </image>
+  <image imageURL="images/DAG_nobel_1_5_3_0005.jpg"
+	thumbURL="thumbs/DAG_nobel_1_5_3_0005.jpg"
+	linkURL="images/DAG_nobel_1_5_3_0005.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\DAG_nobel_1_5_3_0005.jpg">
+    <title><![CDATA[Glaser receiving the Nobel Prize from King Gustaf VI Adolf of Sweden.]]></title>
+    <caption><![CDATA[(December 1960; photo credit: unknown. Glaser Papers)]]></caption>
+  </image>
+  <image imageURL="images/RPF_formal1.10-10.jpg"
+	thumbURL="thumbs/RPF_formal1.10-10.jpg"
+	linkURL="images/RPF_formal1.10-10.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\RPF_formal1.10-10.jpg">
+    <title><![CDATA[The Nobel Prize in Physics 1965 was awarded jointly to Richard P. Feynman, Sin-Itiro Tomonaga and Julian Schwinger "for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles".]]></title>
+    <caption><![CDATA[Formal Nobel portrait. (1965; photo credit: unknown. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/RPF_lecture1.10-118.jpg"
+	thumbURL="thumbs/RPF_lecture1.10-118.jpg"
+	linkURL="images/RPF_lecture1.10-118.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\RPF_lecture1.10-118.jpg">
+    <title><![CDATA[Richard Feynman lecturing on quantum mechanics]]></title>
+    <caption><![CDATA[(1963; photo credit: unknown. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/RPF_nobel32.6-1.jpg"
+	thumbURL="thumbs/RPF_nobel32.6-1.jpg"
+	linkURL="images/RPF_nobel32.6-1.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\RPF_nobel32.6-1.jpg">
+    <title><![CDATA[Richard and Gweneth Feynman at Student's Ball at Stockholm University; the ball is given to honor the newly selected Nobel Laureates. It was one of a very few occasions on which Feynman wore white tie.]]></title>
+    <caption><![CDATA[(1965; photo by Svenskt Pressfoto, Stockholm. Feynman Papers)]]></caption>
+  </image>
+  <image imageURL="images/mgm_blackboard_profile.jpg"
+	thumbURL="thumbs/mgm_blackboard_profile.jpg"
+	linkURL="images/mgm_blackboard_profile.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\mgm_blackboard_profile.jpg">
+    <title><![CDATA[The Nobel Prize in Physics 1969 was awarded to Murray Gell-Mann "for his contributions and discoveries concerning the classification of elementary particles and their interactions".]]></title>
+    <caption><![CDATA[(1956; photo credit: unknown. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/GellMann_family1969.jpg"
+	thumbURL="thumbs/GellMann_family1969.jpg"
+	linkURL="images/GellMann_family1969.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\GellMann_family1969.jpg">
+    <title><![CDATA[Murray Gell-Mann has tea with wife, Margaret, and son Nicholas, 6, wearing a Halloween costume, after learning he had won Nobel Prize for physics.]]></title>
+    <caption><![CDATA[(October 30, 1969; photo credit: unknown. Gell-Mann papers)]]></caption>
+  </image>
+  <image imageURL="images/mgm_news.jpg"
+	thumbURL="thumbs/mgm_news.jpg"
+	linkURL="images/mgm_news.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\mgm_news.jpg">
+    <title><![CDATA[News clipping from the New York Times.]]></title>
+    <caption><![CDATA[(December, 1969; photo credit: unknown. Gell-Mann papers)]]></caption>
+  </image>
+  <image imageURL="images/Fowler1.15.01-6.jpg"
+	thumbURL="thumbs/Fowler1.15.01-6.jpg"
+	linkURL="images/Fowler1.15.01-6.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\Fowler1.15.01-6.jpg">
+    <title><![CDATA[The Nobel Prize in Physics 1983 was divided equally between William Alfred Fowler "for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe" and Subramanyan Chandrasekhar "for his theoretical studies of the physical processes of importance to the structure and evolution of the stars".]]></title>
+    <caption><![CDATA[On occasion of winning the Nobel Prize. (1983; photo by Robert Paz.. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/Fowler1.15.01-19_h.jpg"
+	thumbURL="thumbs/Fowler1.15.01-19_h.jpg"
+	linkURL="images/Fowler1.15.01-19_h.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\Fowler1.15.01-19_h.jpg">
+    <title><![CDATA[William Fowler with equipment in Kellogg Radiation Lab. This is the lab where he did much of his research in nuclear astrophysics. ]]></title>
+    <caption><![CDATA[(1956; photo credit: unknown. Image Archives)]]></caption>
+  </image>
+  <image imageURL="images/Fowler1.15.01-3.jpg"
+	thumbURL="thumbs/Fowler1.15.01-3.jpg"
+	linkURL="images/Fowler1.15.01-3.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Elisa\Nobel physics\Low_res\Fowler1.15.01-3.jpg">
+    <title><![CDATA[William Fowler at Nobel Banquet with Queen Sylvia]]></title>
+    <caption><![CDATA[(1983. Photo by Cop. Svenskt Press Foto.  Image Archives)]]></caption>
+  </image>
+</juiceboxgallery>
